@@ -1,0 +1,10 @@
+name: InstaMarket
+main: at.ouroboros.main.Main
+description: Ouroboros is a creeping hunger woven into code, an endless serpent uncoiling through the world, consuming itself and all around it, leaving only the echo of what once was.
+author: roboalex2
+version: ${project.version}
+api-version: 1.21
+load: STARTUP
+commands:
+  ouroboros:
+    description: Death and hunger
